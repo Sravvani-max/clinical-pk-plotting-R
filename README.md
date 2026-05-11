@@ -42,11 +42,16 @@ Supports:
 
 ### Semi-log PK Profile
 
-(Upload screenshot later)
+![Semi-log PK Plot](plots/semilog_pk_plot.png)
+
+### BLQ Visualization with LLOQ
+![BLQ Plot](plots/blq_plot.png)
 
 ### Mean Concentration-Time Plot
+![Mean Concentration_Plot](plots/mean_concentration_plots.png)
 
-(Upload screenshot later)
+### Dose-Normalized Concentration-Time Plot
+![Dose_Normalized_Plot](plots/dose_normalized_plot.png)
 
 ## Clinical Relevance
 
