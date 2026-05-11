@@ -33,6 +33,21 @@ Supports:
 - LLOQ annotations
 - error bars
 - dose-normalized concentration plots
+- 
+## Example Function Call
+
+```r
+plot_pk_flexible(
+  data = pk_data,
+  y_var = "CONC",
+  color_var = "TRT",
+  group_var = "USUBJID",
+  log_scale = TRUE,
+  facet_var = "TRT",
+  title = "Semi-log PK Plot",
+  xlabel = "Time (Hours)",
+  ylabel = "Concentration"
+)
 
 ## Example PK Visualizations
 
