@@ -38,7 +38,7 @@ Supports:
 
 ### Individual PK Profile
 
-(Upload screenshot later)
+![Individual PK Plot](plots/individual_pk_plot.png)
 
 ### Semi-log PK Profile
 
